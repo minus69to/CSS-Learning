@@ -1,0 +1,17 @@
+h1 {
+    color: green;
+}
+
+p {
+    color: rgb(72, 17, 17);
+}
+
+button {
+    color: grey;
+    background-color: goldenrod;
+}
+
+body {
+    background-color: black;
+}
+
